@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">AppCarnaval</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_fragment">Map</string>
+    <string name="title_activity_splash">Splash</string>
+
+
+    <string name="Salir">Salir</string>
+    <string name="AcercaDe">Acerca De</string>
+    <string name="Comunicacion">Comunicacion</string>
+    <string name="Programacion">Programacion</string>
+    <string name="SitiosTuristicos">Sitios Turisticos</string>
+    <string name="Mapa">Mapa</string>
+    <string name="Inicio">Inicio</string>
+
+
+    <string name="Comienzo">Comienzo Desfile</string>
+    <string name="Plaza">Plaza del Carnaval</string>
+    <string name="PlazaN">Parque Nariño</string>
+    <string name="Estadio">Estadio Libertad</string>
+    <string name="Fin">Fin desfile</string>
+
+
+    <string name="Santuario">Santuario de las lajas</string>
+    <string name="DesSan">El edificio principal mide 27.50 metros la altura hasta la torre es de 100 metros y el puente mide a
+    50 metros de alto por 17 metros de ancho y 20 de largo este santuario se ubica en Ipiales</string>
+    <string name="SantuarioCo">Santuario de la Corota</string>
+    <string name="DesCo">El área protegida está conformada por una pequeña
+    isla de tan solo 12 hectáreas de superficie, la cual está ubicada al norte de
+    la Laguna de la Cocha</string>
+    <string name="Laguna">Laguna verde</string>
+    <string name="DesLa">Es un lago situado en el cono volcánico del Volcán Azufral
+    en el departamento de Nariño, Colombia.</string>
+    <string name="volcan">Volcan Galeras</string>
+    <string name="desvol">El nombre Galeras; fue dado por los Conquistadores españoles que
+    llegaron a la región a principios del siglo XVI.</string>
+    <string name="museo">Museo Taminango</string>
+    <string name="desmuseo">El museo fue creado por la Fundación Museo Taminango
+    Monasco Dachis por iniciativa e impulso y liderazgo del médico Pablo Morillo Cajiao.</string>
+    <string name="muscar">Museo del carnaval</string>
+    <string name="desmucar">Ubicado en el centro cultural Pandiaco, el museo cuenta la
+    historia ,allí se aprecian figuras gigantes que se pasean durante el carnaval.</string>
+
+
+    <string name="humorista">Humorista el chimbilin</string>
+    <string name="humorista2">Humorista el gumercido</string>
+    <string name="genoy">Grupo invitado los alegres de Genoy</string>
+    <string name="canto">Canto y Libertad</string>
+    <string name="dia4">Dia 4</string>
+
+
+    <string name="tiburones">Tiburones Avispados</string>
+    <string name="combo">Combo latino</string>
+    <string name="manicho">Manicho y sus picantes</string>
+    <string name="orquesta">Orquesta Tropi-Band</string>
+    <string name="dia2">Dia 2</string>
+    <string name="dia6">Dia 6</string>
+
+    <string name="reales">Los reales son de nariño</string>
+    <string name="rumba">Rumba y el bolero</string>
+    <string name="wilson">Wilson y sus estrellas</string>
+    <string name="estrellas">Las estrellas de la salsa</string>
+
+    <string name="desacerca">El Carnaval de Negros y Blancos, es la fiesta más grande e
+        importante del sur de Colombia, si bien por su Indicación Geográfica le pertenece a
+        la ciudad de San Juan de Pasto,  también ha sido adoptada por otros municipios
+        nariñenses y del suroccidente Colombiano. Se celebra del 2 al 7 de enero de cada
+        año, y atrae un considerable número de turistas colombianos y extranjeros.
+        El 30 de septiembre de 2009 fue declarado "Patrimonio Cultural Inmaterial de
+        la Humanidad" por el comité de la UNESCO.</string>
+
+
+
+</resources>

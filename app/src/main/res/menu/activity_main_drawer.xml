@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ini"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/Inicio" />
+
+        <item
+            android:id="@+id/sit"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/SitiosTuristicos" />
+        <item
+            android:id="@+id/pro"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/Programacion" />
+    </group>
+
+    <item android:title="@string/Comunicacion">
+        <menu>
+            <item
+                android:id="@+id/ac"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/AcercaDe" />
+            <item
+                android:id="@+id/sali"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Salir" />
+        </menu>
+    </item>
+
+</menu>
